@@ -1,2 +1,5 @@
-# alkolexx_microservices
-alkolexx microservices repository
+# ** HW-12 - DOCKER-2 **
+
+- Закрепил знания по DOCKER.
+- Познакомился с DOCKER-MACHINE (Установка самой DCOKER-MACHINE вызвала некоторые затруднения первоначально из за прекращения поддержки).
+- Деплой приложения в DOCKER в YC.

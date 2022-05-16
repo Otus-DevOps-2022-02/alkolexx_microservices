@@ -1,0 +1,7 @@
+alkolexx@NOTEBOOK:~/Документы/OTUS-LEARNING/VSCODE/GITHUB/alkolexx_microservices$ docker images
+REPOSITORY                 TAG       IMAGE ID       CREATED         SIZE
+alkolexx/ubuntu-tmp-file   latest    c1368475267d   9 seconds ago   63.2MB
+nginx                      latest    7425d3a7c478   2 days ago      142MB
+ubuntu                     18.04     c6ad7e71ba7d   13 days ago     63.2MB
+hello-world                latest    feb5d9fea6a5   7 months ago    13.3kB
+alkolexx@NOTEBOOK:~/Документы/OTUS-LEARNING/VSCODE/GITHUB/alkolexx_microservices$ 
