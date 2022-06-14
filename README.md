@@ -1,5 +1,6 @@
-# ** HW-16 - GITLAB-CI **
+# ** HW-17 - PROMETHEUS **
 
-- Познакомился с GITLAB-CI (Непонятно где надо было брать пароль root, в офф документации нашлось решение: docker exec -it gitlab grep 'Password:' /etc/gitlab/initial_root_password)
-- Познакомился с PIPELINE (описаны этапы)
-- Тесты в PIPELINE (Возникли проблемы с "Cannot allocate memory" при запуске тестов - решилось увеличением оперативной памяти ВМ)
+- Познакомился с PROMETHEUS
+- Создал Dockerfile prometheus и файл конфигурации для него
+- Отредактированы файлы docker-compose
+- Созданые образы залиты в dockerhub https://hub.docker.com/u/alkolexx
