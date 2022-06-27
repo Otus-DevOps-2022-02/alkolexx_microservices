@@ -9,7 +9,7 @@ services:
       - front_net
 
   fluentd:
-    image: ${USERNAME}/fluentd
+    image: ${username}/fluentd
     ports:
       - "24224:24224"
       - "24224:24224/udp"
