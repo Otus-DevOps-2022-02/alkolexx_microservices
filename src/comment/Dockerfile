@@ -9,6 +9,7 @@ RUN apt-get update -qq && \
 
 WORKDIR $APP_HOME
 
+ADD Gemfile* $APP_HOME/
 COPY . $APP_HOME/
 RUN bundle install
 
