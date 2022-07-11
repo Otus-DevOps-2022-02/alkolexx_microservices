@@ -1,0 +1,6 @@
+username=tst_user
+ui_v=1.0
+ui_port=9292
+mongo_v=3.2
+post_v=1.0
+comment_v=1.0
