@@ -1,0 +1,20 @@
+comment:
+  image:
+    repository: chromko/comment
+    tag: latest
+  service:
+    externalPort: 9292
+
+post:
+  image:
+    repository: chromko/post
+    tag: latest
+  service:
+    externalPort: 5000
+
+ui:
+  image:
+    repository: chromko/ui
+    tag: latest
+  service:
+    externalPort: 9292
